@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kV1gXUB0MOMMjT0r8EMShLbqE8gOTTE/p24i27qhfRY=",
+  "Source": "ExampleLT.API",
+  "BasePath": "_content/ExampleLT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
